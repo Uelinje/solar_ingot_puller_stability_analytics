@@ -22,3 +22,14 @@ preserving data confidentiality.
 - Risk regime segmentation using composite stability indices
 - Leakage-aware regression validation using interpretable models
 - Corporate-grade data governance and anonymization practices
+
+  ---
+
+## Analytics Workflow Architecture
+
+![Process Stability Architecture](architecture_overview.png)
+
+This workflow illustrates the structured progression from raw telemetry
+to engineered instability features, stability quantification, risk regime
+segmentation, and interpretable regression validation.
+
