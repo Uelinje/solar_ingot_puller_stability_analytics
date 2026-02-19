@@ -1,4 +1,3 @@
-# ingot_puller_analytics_2
 # Solar Ingot Puller Process Stability & Risk Analytics
 
 ## Business Context
